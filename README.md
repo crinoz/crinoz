@@ -8,29 +8,12 @@
 <hr>
 
 <div align="center">
-<img alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;"/>
-<img  alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:20px;" />
-<img  alt="JavaScript" width="35px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" style="padding-right:20px;" />
-<img alt="PHP" width="35px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" style="padding-right:20px;" />
-<img  alt="CSS" width="35px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" style="padding-right:20px;" />
-<img  alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" style="padding-right:20px;" />
-<img alt="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:20px;" />
-<img alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:20px;" />
-
+<img alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin:20px;"/> &nbsp
+<img  alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:20px;" />&nbsp
+<img  alt="JavaScript" width="35px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" style="padding-right:20px;" />&nbsp
+<img alt="PHP" width="35px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" style="padding-right:20px;" />&nbsp
+<img  alt="CSS" width="35px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" style="padding-right:20px;" />&nbsp
+<img  alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" style="padding-right:20px;" />&nbsp
+<img alt="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:20px;" />&nbsp
+<img alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:20px;" />&nbsp
 </div>
-
-
-<!--
-**crinoz/crinoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
