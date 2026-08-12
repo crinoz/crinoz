@@ -1,4 +1,12 @@
-#### "Twenty years from now you will be more disappointed by the things you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover."
+<div align="center"> <strong>"Twenty years from now you will be more disappointed by the things you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover."</strong>
+</div><hr>
+
+### hey. 👋
+
+<p>i'm duarte, a 19 year old informatics and computing engineering undergraduate. i'm currently studying at FEUP (faculdade de engenharia da universidade do porto).</p>
+<p>currently, i'm focused in creating small projects individually that both appeal to me and help me get a better grasp of the process of building software as a whole.</p>
+
+
 
 <!--
 **crinoz/crinoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
